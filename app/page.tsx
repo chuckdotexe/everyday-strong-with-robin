@@ -43,7 +43,7 @@ export default function Home() {
             <div><b>Northern Virginia</b><span>in-home service area</span></div>
           </div>
         </div>
-        <div className="hero-visual"><div className="sun" /><div className="arch"><img className="hero-photo" src="/robin-trainer-home.png" alt="Robin Fetter, personal trainer" /></div></div>
+        <div className="hero-visual"><div className="sun" /><div className="arch"><img className="hero-photo" src="./robin-trainer-home.png" alt="Robin Fetter, personal trainer" /></div></div>
       </section>
 
       <section className="coaching section-pad" id="coaching">
@@ -78,7 +78,7 @@ export default function Home() {
       </section>
 
       <section className="about section-pad" id="about">
-        <div className="about-portrait"><img src="/robin-about.jpg" alt="Robin Fetter smiling" /></div>
+        <div className="about-portrait"><img src="./robin-about.jpg" alt="Robin Fetter smiling" /></div>
         <div className="about-copy"><p className="eyebrow"><span /> Meet your coach</p><h2>Experienced, energetic, and genuinely personal.</h2>
           <p className="lead">Robin is a Certified Personal Trainer with more than a decade of healthcare experience and specialized training in women&apos;s, balance, and adaptive fitness.</p>
           <p>Her experience includes older adults in private homes and assisted living, plus clients navigating disabilities, injuries, surgeries, and mobility challenges. Her style is attentive, energetic, and grounded in a strong trainer-client relationship.</p>

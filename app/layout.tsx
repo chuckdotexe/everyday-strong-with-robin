@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL('http://localhost:3000'),
+  metadataBase: new URL('https://chuckdotexe.github.io/everyday-strong-with-robin/'),
   title: 'Everyday Strong with Robin | Private Fitness Coaching',
   description: 'Private in-home fitness coaching in Northern Virginia, nearby locations by request, and virtual coaching wherever you are.',
   openGraph: {
