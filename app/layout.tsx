@@ -19,13 +19,13 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Everyday Strong with Robin | Private Fitness Coaching',
     description: 'Private in-home fitness coaching in Northern Virginia and virtual coaching wherever you are.',
-    images: ['/og-robin.png'],
+    images: ['/og.png'],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'Everyday Strong with Robin | Private Fitness Coaching',
     description: 'Private in-home fitness coaching in Northern Virginia and virtual coaching wherever you are.',
-    images: ['/og-robin.png'],
+    images: ['/og.png'],
   },
 };
 
